@@ -1,7 +1,7 @@
 # Portfolio
 Project Portfolio
 
-Hi, I’m Michael Early – a Masters in Economics student passionate about data analysis, forecasting, and research. This  page is a collection of my projects, ranging from university to personal projects.
+Hi, I’m Michael Early – a Masters in Economics student passionate about data analysis, forecasting, and research. This page is a collection of my projects, ranging from university to personal projects.
 
 Project list:  
 ****NFL Sunday Ticket: Is It Profit Maximizing?****  
