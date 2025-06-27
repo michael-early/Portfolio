@@ -25,7 +25,7 @@ This study uses World Bank macroeconomic indicators and HDI data to analyze the 
   Focus: Labor Economics, Race & Pay Equity, NFL Contracts  
 
 This study investigates whether racial discrimination exists in the second-contract guaranteed salaries of NFL quarterbacks. Using a sample of 37 QBs drafted from 2011–2020, the paper controls for performance (QBR), draft position, and team salary cap. Regression analysis in R shows no statistically significant difference in guaranteed money based on race. Performance and team spending capacity are the strongest predictors of salary outcomes.   
-📁 Files:  
+Files:  
   Is There Wage Discrimination Among NFL Quarterbacks.docx 
 
 If you’re interested in collaborating or have feedback, feel free to reach out or connect with me on LinkedIn: https://www.linkedin.com/in/michael-early-/  
