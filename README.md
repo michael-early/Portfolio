@@ -5,11 +5,9 @@ Hi, I’m Michael Early – a Masters in Economics student passionate about data
 
 Project list:  
 ** NFL Sunday Ticket: Is It Profit Maximizing?**
-  Type: Economic Research Paper
+  Type: Theory only Economic Research Paper
   Focus: Bundling, Monopolistic Pricing, Antitrust Policy  
 This paper examines the NFL’s bundling strategy for its Sunday Ticket package, arguing that the league maximizes profits by aggregating fan willingness to pay under a monopolistic model. It applies economic theory on bundling, price discrimination, and market structure to explain why team-specific plans are not offered, despite seeming more efficient.  
-
-    📁 Code: N/A – This project is theoretical and economics-focused with no accompanying codebase.  
 
 
 **Economic Growth in Developed and Developing Countries**  
