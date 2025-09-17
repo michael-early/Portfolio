@@ -5,7 +5,7 @@ Hi, I’m Michael Early – a Masters in Economics student passionate about data
 Project list:  
 
 ****California's Fast Food Minimum Wage Hike and its Effects on Teen Employment****(Ongoing)  
-  Type: Empirical Research + Regression Analysis (R/Python)
+  Type: Empirical Research + Regression Analysis (R/Python)  
   Focus: Labor Economics, Minimum Wage Policy, Teen Employment
 
 -This paper evaluates the labor market impacts of California’s 2024 fast-food sector wage floor (AB 1228) on teen employment. Using CPS microdata merged with metro-border identifiers, it applies a difference-in-differences framework to compare teen employment trends in California to bordering states before and after the policy. The analysis highlights significant wage gains for fast-food workers with mixed short-run employment effects, while identifying a research gap in age-specific outcomes. Findings suggest that teenagers—who make up a disproportionate share of entry-level fast-food jobs—face unique labor supply and demand dynamics under sectoral wage standards
@@ -18,7 +18,7 @@ Project list:
 
 
 ****Economic Growth in Developed and Developing Countries****  (Group Collaboration)  
-  Type: Empirical Research + Code (Machine Learning)
+  Type: Empirical Research + Code (Machine Learning)  
   Focus: GDP Growth Modeling, HDI Clustering, Feature Importance  
 
 -This study uses World Bank macroeconomic indicators and HDI data to analyze the drivers of economic growth. It applies unsupervised learning (k-means) to classify countries and Random Forest regression to model and compare the impact of key features like investment, education, and inflation across development levels.  
